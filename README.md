@@ -46,24 +46,15 @@ Este portfólio é meu primeiro passo para compartilhar meu progresso, mostrar p
 
 ---
 
-## Como Visualizar
-
-1. Clone este repositório:
-   ```bash
-   git clone 
-
-2. Abra o arquivo index.html no navegador.
+🎥 **Demonstração**  
+-Confira o projeto em funcionamento clicando no link abaixo:  
+-[Visualizar Portfólio]()
 
 
         Projetos Incluídos
-Gerador de Histórias:
-Um aplicativo divertido para criar histórias personalizadas com base nas escolhas do usuário.
-To-Do List:
-Uma lista de tarefas simples e funcional para organizar seu dia.
-Considerações Finais
 Este é apenas o início da minha jornada como desenvolvedor. A cada dia, busco aprender algo novo e aprimorar minhas habilidades. Espero que você goste do portfólio e fique à vontade para compartilhar feedbacks ou entrar em contato comigo.
 
-LinkedIn: Perfil no LinkedIn
-GitHub: Perfil no GitHub
-WhatsApp: Entrar em Contato
+📞 Contato  
+[LinkedIn - Gustavo Saturnino](https://www.linkedin.com/in/gustavo-araujo-31a515250/)  
+[WhatsApp - Enviar Mensagem](https://wa.me/5561999911234)
 Obrigado por visitar meu portfólio! 🚀
