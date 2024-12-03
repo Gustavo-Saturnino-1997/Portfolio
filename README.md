@@ -48,7 +48,6 @@ Este portfólio é meu primeiro passo para compartilhar meu progresso, mostrar p
 -[Visualizar Portfólio]()
 
 
-        Projetos Incluídos
 Este é apenas o início da minha jornada como desenvolvedor. A cada dia, busco aprender algo novo e aprimorar minhas habilidades. Espero que você goste do portfólio e fique à vontade para compartilhar feedbacks ou entrar em contato comigo.
 
 📞 Contato  
