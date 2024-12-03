@@ -33,9 +33,6 @@ Este portfólio é meu primeiro passo para compartilhar meu progresso, mostrar p
    - Projetos apresentados com imagens e links para visualização direta.
    - Efeito "hover" para dar destaque aos projetos ao passar o mouse.
 
-4. **Redes Sociais**:
-   - Links para meu [GitHub](https://github-readme-stats.vercel.app/api?username=Gustavo-Saturnino-1997&show_icons=true&theme=radical) e [LinkedIn](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Saturnino-1997&layout=compact&theme=radica).
-
 ---
 
 ## Tecnologias Utilizadas
